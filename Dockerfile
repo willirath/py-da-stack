@@ -1,6 +1,7 @@
 # use minimal jupyter base notebook
 FROM jupyter/base-notebook:latest
 
+
 # enable jupyterlab as default app
 ENV JUPYTER_ENABLE_LAB=true
 
