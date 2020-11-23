@@ -54,3 +54,4 @@ docker push <my_docker_namespace>/py-da-stack:<analysis_id>
 ```
 Note that you need to register at [DockerHub](https://hub.docker.com) to get you own namespace.
 You can also choose a a different repository name than `py-da-stack`.
+
